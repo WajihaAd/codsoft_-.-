@@ -1,8 +1,4 @@
 # CODSOFT
-Sure, here's a README file summarizing each of the five codes along with their key features and libraries used:
-
----
-
 ## 1. To-Do List Application
 
 ### Key Features:
